@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: zuulsrv
+  profiles:
+    active:
+      default
+  cloud:
+    config:
+      enabled: true

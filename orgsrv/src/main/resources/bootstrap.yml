@@ -1,0 +1,10 @@
+
+spring:
+  application:
+    name: orgsrv
+  profiles:
+    active:
+      default
+  cloud:
+    config:
+      enabled: true
